@@ -1,0 +1,4 @@
+*.jpg
+output/
+venv/
+.idea/
