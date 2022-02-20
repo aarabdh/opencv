@@ -1,6 +1,6 @@
 import cv2
 import numpy as np
-url = 'http://192.168.29.237:8080/video'
+url = 'URL://url.url'
 cap = cv2.VideoCapture(url)
 
 down_width = 1080
