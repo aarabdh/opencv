@@ -35,5 +35,5 @@ for i in range(40000):
                thickness=-1)
 
 cv2.imshow('image', canvas)
-cv2.imwrite(".\output\out.png", canvas)
+cv2.imwrite('.\output\out.png', canvas)
 cv2.waitKey()
