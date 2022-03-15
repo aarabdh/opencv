@@ -14,3 +14,5 @@ Took similar video input from my phone camera using [IP Webcam](https://play.goo
 
 ## primeNumberSpiral.py
 Took up the Coding Challenge from [this video from The Coding Train](https://www.youtube.com/watch?v=a35KWEjRvc0). Also implemented Object Oriented Programming in my code for better readability.
+
+[![Link to the Video](https://img.youtube.com/vi/a35KWEjRvc0/0.jpg)](https://www.youtube.com/watch?v=a35KWEjRvc0)
