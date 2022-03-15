@@ -11,3 +11,6 @@ Figured out how to take a video input from the in-built Laptop Camera and apply 
 
 ## phonecam.py
 Took similar video input from my phone camera using [IP Webcam](https://play.google.com/store/apps/details?id=com.pas.webcam) on my android phone. I then tried to apply similar transformations to the output successfully.
+
+## primeNumberSpiral.py
+Took up the Coding Challenge from [this video from The Coding Train](https://www.youtube.com/watch?v=a35KWEjRvc0). Also implemented Object Oriented Programming in my code for better readability.
