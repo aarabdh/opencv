@@ -1,3 +1,6 @@
+# Press "x" key to move forward
+# Press "q" key to exit the window
+
 import math
 import cv2
 import numpy as np
